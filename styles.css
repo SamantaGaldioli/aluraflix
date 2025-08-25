@@ -1,17 +1,18 @@
 body {
-    color: rgb(86, 3, 87);
-    background: rgb(0, 0, 0);
+    color: rgb(1, 0, 3);
+    background: rgb(153, 83, 83);
     margin: 0px;
+    font-family: "DM Serif Text", serif;
 }
  
 header{ 
-    border-bottom: solid 2px rgb(79, 2, 70);
+    border-bottom: solid 2px rgb(124, 13, 113);
     padding: 20px ;
     font-size: 26px ;
     color: (204, 20, 232, 0.725 );
 }
     section {
-    background: rgb(184,156,213);
+    background: rgb(168, 129, 244);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
