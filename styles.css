@@ -8,8 +8,11 @@ body {
 header{ 
     border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px ;
-    font-size: 26px ;
+    font-size: 30px ;
+    text-align: center;
+    font-weight: bold;
     color: (204, 20, 232, 0.725 );
+
 }
     section {
     background: rgb(217, 94, 238);
