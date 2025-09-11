@@ -14,7 +14,7 @@ header{
     color: (204, 20, 232, 0.725 );
 
 }
-    section {
+    .chamada {
     background: rgb(217, 94, 238);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -34,4 +34,16 @@ p {
     font-size: 25px;
 }
 
-img {height: 300px;}
+img {
+    height: 200px;
+}
+.categaria-videos{
+    display: flex;
+    overflow-x: auto ;
+    gap: 10px;
+}
+section{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
