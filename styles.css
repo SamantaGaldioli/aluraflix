@@ -3,6 +3,7 @@ body {
     background: rgb(0, 0, 0);
     margin: 0px;
     font-family: "DM Serif Text", serif;
+    margin-bottom: 100px;
 }
  
 header{ 
@@ -15,7 +16,7 @@ header{
 
 }
     .chamada {
-    background: rgb(84, 141, 247);
+    background: rgb(244, 137, 251);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -51,10 +52,10 @@ p {
 
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 8px solid rgb(84, 141, 247);
+    border: 8px solid rgb(244, 137, 251);
 }
 
 .categoria h2{ 
-  color:rgb(84, 141, 247);
+  color:rgb(244, 137, 251);
 }
     
